@@ -1,7 +1,7 @@
-# PackageTemplate
+# {display_name}
 
 ## Install
-Project Settins -> Package Manager -> Scoped registries
+Project Settings -> Package Manager -> Scoped registries
 </br>
 
 ![image](https://user-images.githubusercontent.com/22265817/197618796-e4f99403-e119-4f35-8320-b233696496d9.png)
@@ -18,4 +18,4 @@ Project Settins -> Package Manager -> Scoped registries
   ]
 ```
 
-Window -> PackageManager -> Packages: My Registries -> Arcueid Plugins -> [Plugin name]
+Window -> PackageManager -> Packages: My Registries -> Arcueid Plugins -> {display_name}
