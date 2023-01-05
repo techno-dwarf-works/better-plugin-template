@@ -19,5 +19,12 @@
     "keyword1",
     "keyword2",
     "keyword2"
+  ],
+  "samples": [
+    {
+      "displayName": "Default samples",
+      "description": "Contains test samples",
+      "path": "Samples~/TestSamples"
+    }
   ]
 }
