@@ -2,10 +2,10 @@
   "name": "com.tdw.{package_name}",
   "displayName": "{display_name}",
   "version": "0.0.1",
-  "unity": "2018.3",
+  "unity": "2021.3",
   "description": " ",
   "dependencies": {
-    "com.uurha.somepackage": "0.1.0"
+    "com.uurha.bettereditortools": "1.0.68"
   },
   "author": {
     "name": "Techno Dwarf Works",
