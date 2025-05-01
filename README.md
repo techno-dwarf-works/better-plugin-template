@@ -1,4 +1,4 @@
-# {display_name}
+# Better {short_project_name}
 To use this template follow those steps:
 1. Make a copy to your accout;
 2. Delete Update FUNDING.yml
